@@ -65,7 +65,7 @@ streamlit run dashboard.py
 ## 🌐 Versión en línea
 
 El proyecto lo puedes visualizar en el siguiente link:  
-👉 [Enlace al dashboard en Streamlit Cloud](AQUÍ_VA_TU_ENLACE)
+👉 [Enlace al dashboard en Streamlit Cloud](https://dashboard-7fg5bx4zjrgbwfm4jxalfi.streamlit.app/)
 
 
 ## 👨‍💻 Autor
