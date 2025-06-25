@@ -27,7 +27,7 @@ Este proyecto es un dashboard interactivo desarrollado en **Python** usando **St
   - Región
   - Canal de Venta
 
-  -  💾 Botón guardar base con filtros aplicados
+  -  💾 Botón para guardar base con filtros aplicados
 
 
 ---
